@@ -31,7 +31,7 @@ const SAFE_LIMITS = {
 };
 
 // Your bot token (REPLACE THIS WITH YOUR ACTUAL TOKEN)
-const TOKEN = 'MTQ4ODIxMDIwOTE1ODU5NDcyMQ.GYNmyq.A1tU2mw1f6lv-oUReoNG3yWAr4sLAstrI-9Frs';
+const TOKEN = '';
 
 // Store channel IDs we create so we can clean up
 let createdChannels = [];
